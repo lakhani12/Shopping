@@ -7,7 +7,7 @@ const Offer = () => {
      <section className='w-full h-full grid grid-cols-1 md:grid-cols-2 bg-gray-100'>
         {/* image */}
         <div>
-            <img src="public/images/image2.png" alt="offer image" />
+            <img src="/images/image2.png" alt="offer image" />
         </div>
         {/* text  */}
         <div className='px-6 py-2 flex flex-col justify-center items-start'>

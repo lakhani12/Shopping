@@ -27,7 +27,7 @@ consectetur adipiscing elit, sed do
           </div>
 
           <img
-            src="public/category/women.png"
+            src="/category/women.png"
             alt="women"
             className="absolute bottom-0 -right-30 w-[90%] rotate-y-180 object-contain"
           />
@@ -49,7 +49,7 @@ consectetur adipiscing elit, sed do
             </ul>
 
             <img
-              src="public/category/man.png"
+              src="/category/man.png"
               alt="men"
               className="absolute -right-20 bottom-0 w-[90%] object-contain rotate-y-180"
             />
@@ -68,7 +68,7 @@ consectetur adipiscing elit, sed do
             </ul>
 
             <img
-              src="public/category/acc.png"
+              src="/category/acc.png"
               alt="accessories"
               className="absolute -right-30 top-0 w-[80%] object-contain rotate-y-180"
             />

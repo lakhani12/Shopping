@@ -9,7 +9,7 @@ const DeatilsBar = () => {
           {/* svg */}
           <div className="w-24 overflow-hidden p-3">
             <img
-              src="public/icons/image1.png"
+              src="/icons/image1.png"
               alt="cart"
               className="w-full h-full object-cover"
             />
@@ -28,7 +28,7 @@ const DeatilsBar = () => {
           {/* svg */}
           <div className="w-24 overflow-hidden p-3">
             <img
-              src="public/icons/wallet.png"
+              src="/icons/wallet.png"
               alt="payment"
               className="w-full h-full object-cover"
             />
@@ -45,7 +45,7 @@ const DeatilsBar = () => {
           {/* svg */}
           <div className="w-24 overflow-hidden p-3">
             <img
-              src="public/icons/setting.png"
+              src="/icons/setting.png"
               alt="cart"
               className="w-full h-full object-cover"
             />
